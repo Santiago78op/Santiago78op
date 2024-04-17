@@ -57,12 +57,12 @@
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/Santiago78op/PC2_Proyecto3_201905884."><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago78op&repo=PC2_Proyecto3_201905884.=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Santiago78op/LFP-VJ-201905884-P1"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago78op&repo=LFP-VJ-201905884-P1&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/Santiago78op/LFP-VJ-201905884-P2"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago78op&repo=LFP-VJ-201905884-P2&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/Santiago78op/IPC2_Proyecto1_201905884"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago78op&repo=IPC2_Proyecto1_201905884&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Santiago78op/PC2_Proyecto3_201905884."><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago78op&repo=PC2_Proyecto3_201905884.&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/Santiago78op/calculadora-javaFx-Jflex"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=Santiago78op&repo=calculadora-javaFx-Jflex&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
 </p>
